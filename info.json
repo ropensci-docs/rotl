@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9c13b90418846987ad238f8d635dff7fd0639c32",
+    "author": "François Michonneau <francois.michonneau@gmail.com>",
+    "time": "2020-10-22 11:14:53",
+    "files": 1,
+    "merge": false,
+    "message": "Delete .travis.yml"
+  },
+  "remote": "https://github.com/ropensci/rotl",
+  "pkg": "rotl"
+}
