@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "57e800c2b17f107c98ccc5ad827ee1b250668a3d",
+    "author": "François Michonneau <francois.michonneau@gmail.com>",
+    "time": "2023-06-16 12:51:36",
+    "files": 1,
+    "merge": false,
+    "message": "Delete appveyor.yml"
+  },
+  "repo": "https://github.com/ropensci/rotl",
+  "pkg": "rotl"
+}
