@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "44dc7b0b76de9dab647e4f8cd55e916c56009128",
+    "author": "François Michonneau <francois.michonneau@gmail.com>",
+    "time": "2026-01-15T17:36:36Z",
+    "files": 2,
+    "merge": false,
+    "message": "final fixes before submission\n"
+  },
+  "repo": "https://github.com/ropensci/rotl",
+  "pkg": "rotl",
+  "time": "2026-08-30T08:00:41Z"
+}
