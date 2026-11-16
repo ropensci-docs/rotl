@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2017
+    COPYRIGHT HOLDER: Francois Michonneau, Joseph W. Brown, David Winter

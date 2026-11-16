@@ -1,0 +1,38 @@
+# Get external identifiers for data associated with an Open Tree taxon
+
+The Open Tree taxonomy is a synthesis of multiple reference taxonomies.
+This function retrieves identifiers to external taxonomic records that
+have contributed the rank, position and definition of a given Open Tree
+taxon.
+
+## Usage
+
+``` r
+taxon_external_IDs(taxon_id)
+```
+
+## Arguments
+
+- taxon_id:
+
+  An open tree study ID
+
+## Value
+
+a data.frame in which each row represents a unique record in an external
+database. The column "source" provides and abbreviated name for the
+database, and "id" the unique ID for the record.
+
+## See also
+
+tnrs_matchnames, which can be used to search for taxa by name.
+
+taxonomy_taxon, for more information about a given taxon.
+
+## Examples
+
+``` r
+if (FALSE) { # \dontrun{
+   gibbon_IDs <- taxon_external_IDs(712902)
+} # }
+```
